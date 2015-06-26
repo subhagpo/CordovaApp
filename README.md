@@ -1,3 +1,2 @@
 #ReadMe Cordova App
-
-## This is a demo for using TacoCLI edited on Windows for Mac
+## This is a demo for using TacoCLI
