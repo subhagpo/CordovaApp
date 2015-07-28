@@ -6,4 +6,7 @@ C:\Apps\CordovaApp\myapp\platforms\android\ant-build\classes\com\ionicframework\
 C:\Apps\CordovaApp\myapp\platforms\android\ant-build\classes\com\ionicframework\myapp840299\R$string.class \
 C:\Apps\CordovaApp\myapp\platforms\android\ant-build\classes\com\ionicframework\myapp840299\R$xml.class \
 C:\Apps\CordovaApp\myapp\platforms\android\ant-build\classes\com\ionicframework\myapp840299\R.class \
+C:\Apps\CordovaApp\myapp\platforms\android\ant-build\classes\org\apache\cordova\camera\CameraLauncher.class \
+C:\Apps\CordovaApp\myapp\platforms\android\ant-build\classes\org\apache\cordova\camera\ExifHelper.class \
+C:\Apps\CordovaApp\myapp\platforms\android\ant-build\classes\org\apache\cordova\camera\FileHelper.class \
 C:\Apps\CordovaApp\myapp\platforms\android\ant-build\dexedLibs\classes-c4560d9efb773a1392deaad183192ab4.jar \

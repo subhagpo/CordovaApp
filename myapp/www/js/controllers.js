@@ -25,4 +25,22 @@ angular.module('starter.controllers', [])
   $scope.settings = {
     enableFriends: true
   };
+    /* Camera pluggin */
+  function onGetImageSuccess(imageData) {
+      $scope.imageSrc = "data:image/jpeg;base64," + imageData;
+      $scope.$apply();
+  }
+
+  function onGetImageFail(message) {
+      alert('Error: ' + message);
+  }
+
+  $scope.takeSnap = function () {
+      //alert("Take a snap using camera plugin");
+
+      navigator.camera.getPicture(onGetImageSuccess, onGetImageFail, {
+          quality: 50,
+          destinationType: Camera.DestinationType.DATA_URL
+      });
+  }
 });

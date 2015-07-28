@@ -36,6 +36,7 @@ C:\Apps\CordovaApp\myapp\platforms\android\assets\www\img \
 C:\Apps\CordovaApp\myapp\platforms\android\assets\www\index.html \
 C:\Apps\CordovaApp\myapp\platforms\android\assets\www\js \
 C:\Apps\CordovaApp\myapp\platforms\android\assets\www\lib \
+C:\Apps\CordovaApp\myapp\platforms\android\assets\www\plugins \
 C:\Apps\CordovaApp\myapp\platforms\android\assets\www\templates \
 C:\Apps\CordovaApp\myapp\platforms\android\assets\www\VSBuildInfo.xml \
 C:\Apps\CordovaApp\myapp\platforms\android\assets\www\css\style.css \
@@ -155,6 +156,12 @@ C:\Apps\CordovaApp\myapp\platforms\android\assets\www\lib\ionic\scss\ionicons\_i
 C:\Apps\CordovaApp\myapp\platforms\android\assets\www\lib\platform\bower.json \
 C:\Apps\CordovaApp\myapp\platforms\android\assets\www\lib\platform\LICENSE.txt \
 C:\Apps\CordovaApp\myapp\platforms\android\assets\www\lib\platform\platform.js \
+C:\Apps\CordovaApp\myapp\platforms\android\assets\www\plugins\org.apache.cordova.camera \
+C:\Apps\CordovaApp\myapp\platforms\android\assets\www\plugins\org.apache.cordova.camera\www \
+C:\Apps\CordovaApp\myapp\platforms\android\assets\www\plugins\org.apache.cordova.camera\www\Camera.js \
+C:\Apps\CordovaApp\myapp\platforms\android\assets\www\plugins\org.apache.cordova.camera\www\CameraConstants.js \
+C:\Apps\CordovaApp\myapp\platforms\android\assets\www\plugins\org.apache.cordova.camera\www\CameraPopoverHandle.js \
+C:\Apps\CordovaApp\myapp\platforms\android\assets\www\plugins\org.apache.cordova.camera\www\CameraPopoverOptions.js \
 C:\Apps\CordovaApp\myapp\platforms\android\assets\www\templates\chat-detail.html \
 C:\Apps\CordovaApp\myapp\platforms\android\assets\www\templates\tab-account.html \
 C:\Apps\CordovaApp\myapp\platforms\android\assets\www\templates\tab-chats.html \

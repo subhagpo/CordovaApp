@@ -4,4 +4,10 @@
     <DebuggerFlavor>AndroidEmulator</DebuggerFlavor>
     <AndroidEmulatorID>AndroidDevice;Device</AndroidEmulatorID>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|iOS'">
+    <DebuggerFlavor>iOSEmulatoriPhone6</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ReferenceCachePath>C:\Users\Administrator\AppData\Local\Temp\myAppPC_refcache</ReferenceCachePath>
+  </PropertyGroup>
 </Project>
